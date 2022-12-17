@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "id": "book1",
+            "bookTitle": "Harry Potter",
+            "author": "JK Rowling"
+        },
+        {
+            "id": "book2",
+            "bookTitle": "Inferno",
+            "author": "Dan Brown"
+        }
+    ]
+}
